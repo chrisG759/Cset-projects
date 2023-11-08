@@ -1,0 +1,38 @@
+html {
+    background-color: yellowgreen;
+}
+#heading {
+    color: white;
+}
+#question {
+    margin-left: 2cm;
+    color: white;
+}
+
+#heading {
+    text-align: center;
+    
+}
+#firsthalf {
+    display: flex;
+    justify-content: center;
+    margin-top: 3cm;
+}
+#secondhalf {
+    margin-top: 1cm;
+    display: flex;
+    justify-content: center;
+    margin-left: 1.25cm;
+}
+button {
+    width: 4cm;
+    height: 1cm;
+    background-color: red;
+    border: 0;
+    border-radius: 25px;
+}
+#check {
+    margin-top: 1cm;
+    text-align: center;
+    color: blue;
+}

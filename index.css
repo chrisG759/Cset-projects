@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    background: greenyellow;
+}
+#heading {
+    margin-top: 1cm;
+    text-align: center;
+    color: blueviolet;
+}
+#input-box {
+    display: flex;
+    margin-top: 1cm;
+    justify-content: center;
+}
+#input {
+    margin-left: .25cm;
+    width: 5cm;
+}
+button {
+    background-color: yellow;
+    border: 0;
+    padding: 10px;
+}
+#content {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 2cm;
+}
+
+#content:hover {
+    cursor: pointer;
+}
